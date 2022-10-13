@@ -1,7 +1,7 @@
 # Adding an Image
 
 ## Copy
-Find the image you want. Two finger click to save the image.
+- Find the image you want. Two finger click to save the image.
 ![Two Finger Click](./media/copy.png)
 
 ## Go to Glitch
