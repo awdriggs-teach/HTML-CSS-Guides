@@ -13,7 +13,7 @@ These elements are display block by default:
 - divs and other section tags, `<div>` `<header>` `<footer>` `<main>`
 
 You can make make any HTML element be display block by adding this CSS.
-```CSS
+```css
 selector {
 display: block;
 }
@@ -28,7 +28,7 @@ These elements are display inline by default:
 - links `<a>`
 
 You can make any HTML element to be display inline by adding this CSS.
-```CSS
+```css
 selector {
 display: inline;
 }
@@ -38,7 +38,7 @@ display: inline;
 Elements can be display inline block. This means they will be in line with other elements, but will be like a block and take up a certain amount of space.
 
 You can make any element inline block by adding this CSS.
-```CSS
+```css
 selector {
 display: inline-block;
 }
