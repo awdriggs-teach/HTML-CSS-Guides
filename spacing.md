@@ -20,7 +20,7 @@ selector {
 
 This will create a square box.
 
-![content box](./media/content.png)
+![content box](./media/content.jpg)
 
 ## Padding
 Padding is the space around the content to the edge of it's box. Padding can be added with CSS.
@@ -32,7 +32,7 @@ selector {
 }
 ```
 
-![padding added](./media/padding.png)
+![padding added](./media/padding.jpg)
 
 You can also add different padding to different sides of the content.
 
@@ -46,7 +46,7 @@ selector {
 
 ## Border
 You can add a border around any box using CSS. Borders can be any thickness and color. 
-![border added](./media/border.png)
+![border added](./media/border.jpg)
 
 You can set the border style property to be solid, dashed, or dotted to change how the border will look.
 ```css
@@ -59,7 +59,7 @@ selector {
   
 ## Margin
 Margin is space around the outside of a box.
-![margin added](./media/margin.png)
+![margin added](./media/margin.jpg)
 
 This will add border around all sides of a box.
 ```css

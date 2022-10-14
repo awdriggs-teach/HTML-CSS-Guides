@@ -66,6 +66,7 @@ body {
   background-size: contain;
 }
 ```
+![background repeat](./media/bg-contain.png)
  
 ## Seamless and Textured Backgrounds
 You can find many images that are designed to be background images that repeat. These are often called "seamless" backgrounds or textured backgrounds.
