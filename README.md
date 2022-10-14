@@ -2,5 +2,7 @@
 Your place for HTML and CSS guides .
  
 ## Guides
-* [Evertything is a Box](box-model.md)
 * [Adding an Image](images.md)
+* [Box Model 1 - Display](display.md)
+* [Box Model 2 - Spacing](spacing.md)
+* [Background Images](backgrounds.md)

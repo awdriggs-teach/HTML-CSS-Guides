@@ -1,8 +1,10 @@
-# Box Model
-In HTML, everything is a box!
+# Box Model 1 - Display 
+In HTML, everything is a box! We can use the display property to change how the blocks are displayed.
 
 ## Stacking
 HTML Elements will either want to stack on top of each other or side by side. This is based on the `display` property in CSS.
+
+![Blocks](./media/blocks.png)
 
 ### Display Block
 When an element is display block, it will automatically take up the entire width of the screen.
@@ -15,7 +17,7 @@ These elements are display block by default:
 You can make make any HTML element be display block by adding this CSS.
 ```css
 selector {
-display: block;
+  display: block;
 }
 ```
 
@@ -30,7 +32,7 @@ These elements are display inline by default:
 You can make any HTML element to be display inline by adding this CSS.
 ```css
 selector {
-display: inline;
+  display: inline;
 }
 ```
 
@@ -40,7 +42,7 @@ Elements can be display inline block. This means they will be in line with other
 You can make any element inline block by adding this CSS.
 ```css
 selector {
-display: inline-block;
+  display: inline-block;
 }
 ```
 
