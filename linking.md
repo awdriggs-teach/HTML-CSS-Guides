@@ -8,9 +8,11 @@ Links are super easy. All you need is the url to a another page. Here is the HTM
 ```
 
 In glitch, if you click you try clicking the link in the preview pane you will see this. 
+ 
 <img width="400" src="./media/sad-face.png">
 
 Instead, open your page in a new window.
+ 
 <img width="400" src="./media/preview-pane.png">
 
 The links should work now!
@@ -19,9 +21,11 @@ The links should work now!
 Your site can have multiple pages, and you can link between your pages in the same way.
 
 First, you need to create a new HTML file for your new page.
+ 
 <img width="400" src="./media/files.png">
  
 Give the new page a name.
+ 
 <img width="400" src="./media/add-page.png">
 
 Now you can add a link to your new page. The url is just the name of the new file you created.
