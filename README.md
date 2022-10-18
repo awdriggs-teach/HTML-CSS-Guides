@@ -7,3 +7,4 @@ Your place for HTML and CSS guides .
 * [Box Model 2 - Spacing](spacing.md)
 * [Background Images](backgrounds.md)
 * [Borders](borders.md)
+* [Links](linking.md)
